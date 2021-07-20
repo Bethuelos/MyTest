@@ -1,0 +1,1895 @@
+# Copyright (C) 2018 Aliexpress Dropship for Woocommerce
+# This file is distributed under the same license as the Aliexpress Dropship for Woocommerce package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aliexpress Dropship for Woocommerce 1.4.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ali2woo\n"
+"POT-Creation-Date: 2019-09-14 10:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ali2woo.php:117
+msgid "Ali2Woo"
+msgstr ""
+
+#: view/addons.php:1 includes/classes/controller/A2W_AddonsController.php:23
+msgid "Add-ons/Extensions"
+msgstr ""
+
+#: view/addons.php:17
+msgid "Read more..."
+msgstr ""
+
+#: view/chrome_notify.php:6
+msgid ""
+"Save time adding and ordering products by using the MA Aliexpress Dropship "
+"Chrome Extension!"
+msgstr ""
+
+#: view/chrome_notify.php:9
+msgid "Get Chrome Extension"
+msgstr ""
+
+#: view/import.php:8
+msgid "Your Import List is Empty."
+msgstr ""
+
+#: view/import.php:11
+msgid ""
+"You can add products to this list from the “Search Products” page, or import "
+"products while browsing AliExpress using free chrome extension."
+msgstr ""
+
+#: view/import.php:20
+#: includes/classes/controller/A2W_ImportPageController.php:25
+#: includes/classes/controller/A2W_ImportPageController.php:25
+msgid "Import List"
+msgstr ""
+
+#: view/import.php:33
+msgid "Search products"
+msgstr ""
+
+#: view/import.php:46
+msgid "Select All Products"
+msgstr ""
+
+#: view/import.php:51
+msgid "Remove from Import List"
+msgstr ""
+
+#: view/import.php:52
+msgid "Push Products to Shop"
+msgstr ""
+
+#: view/import.php:53 view/includes/category_modal.php:4
+msgid "Link to category"
+msgstr ""
+
+#: view/import.php:60
+msgid "Link All products to category"
+msgstr ""
+
+#: view/import.php:61
+msgid "Remove All Products"
+msgstr ""
+
+#: view/import.php:64
+msgid "Push All Products to Shop"
+msgstr ""
+
+#: view/import.php:73
+msgid "No products found."
+msgstr ""
+
+#: view/import.php:86
+msgid "Product"
+msgstr ""
+
+#: view/import.php:87
+msgid "Description"
+msgstr ""
+
+#: view/import.php:88
+msgid "Variants"
+msgstr ""
+
+#: view/import.php:89
+msgid "Images"
+msgstr ""
+
+#: view/import.php:94
+#: includes/classes/controller/A2W_ProductDataTabController.php:63
+msgid "External Id"
+msgstr ""
+
+#: view/import.php:97 view/import.php:383
+msgid "Action"
+msgstr ""
+
+#: view/import.php:101 view/includes/split_modal.php:16
+msgid "Split Product"
+msgstr ""
+
+#: view/import.php:103
+msgid "Remove Product"
+msgstr ""
+
+#: view/import.php:110
+msgid "Push to Shop"
+msgstr ""
+
+#: view/import.php:133
+msgid "Change name"
+msgstr ""
+
+#: view/import.php:137
+msgid "Categories"
+msgstr ""
+
+#: view/import.php:138 view/includes/category_modal.php:11
+msgid "Choose Categories"
+msgstr ""
+
+#: view/import.php:146
+msgid "Status"
+msgstr ""
+
+#: view/import.php:147
+msgid "Choose Status"
+msgstr ""
+
+#: view/import.php:153
+msgid "Type"
+msgstr ""
+
+#: view/import.php:154
+msgid "Choose Type"
+msgstr ""
+
+#: view/import.php:155 view/settings/common.php:122
+msgctxt "Setting option"
+msgid "Simple/Variable Product"
+msgstr ""
+
+#: view/import.php:156 view/settings/common.php:123
+msgctxt "Setting option"
+msgid "External/Affiliate Product"
+msgstr ""
+
+#: view/import.php:160
+msgid "Tags"
+msgstr ""
+
+#: view/import.php:161
+msgid "Enter Tags"
+msgstr ""
+
+#: view/import.php:183
+msgid "Prevent product price from auto-updating"
+msgstr ""
+
+#: view/import.php:188
+msgid "Prevent product quantity from auto-updating"
+msgstr ""
+
+#: view/import.php:200
+msgid "Use all"
+msgstr ""
+
+#: view/import.php:201
+msgid "SKU"
+msgstr ""
+
+#: view/import.php:207
+msgid "Cost"
+msgstr ""
+
+#: view/import.php:208
+msgid "Shipping"
+msgstr ""
+
+#: view/import.php:209 view/search.php:38
+msgid "Price"
+msgstr ""
+
+#: view/import.php:210
+msgid "Regular Price"
+msgstr ""
+
+#: view/import.php:211
+msgid "Profit"
+msgstr ""
+
+#: view/import.php:212
+msgid "Inventory"
+msgstr ""
+
+#: view/import.php:217
+msgid "Select country"
+msgstr ""
+
+#: view/import.php:235 view/import.php:259
+msgid "Change All Prices"
+msgstr ""
+
+#: view/import.php:238 view/import.php:262 view/import.php:289
+msgid "Set New Value"
+msgstr ""
+
+#: view/import.php:239 view/import.php:263
+msgid "Multiply by"
+msgstr ""
+
+#: view/import.php:273
+msgid "Enter Value"
+msgstr ""
+
+#: view/import.php:274 view/settings/common.php:233
+#: view/settings/reviews.php:98
+msgid "From"
+msgstr ""
+
+#: view/import.php:275 view/settings/common.php:234
+#: view/settings/reviews.php:108
+msgid "To"
+msgstr ""
+
+#: view/import.php:286
+msgid "Change All Inv."
+msgstr ""
+
+#: view/import.php:290
+msgid "Random Value"
+msgstr ""
+
+#: view/import.php:341
+msgid "Gallery images"
+msgstr ""
+
+#: view/import.php:351
+msgid "Cancel move"
+msgstr ""
+
+#: view/import.php:353
+msgid "Cancel copy"
+msgstr ""
+
+#: view/import.php:363
+msgid "Variations images"
+msgstr ""
+
+#: view/import.php:380
+msgid "Description images"
+msgstr ""
+
+#: view/import.php:384
+msgid "Move checked images to gallery"
+msgstr ""
+
+#: view/import.php:385
+msgid "Copy checked images to gallery"
+msgstr ""
+
+#: view/search.php:11
+msgid "Search for products"
+msgstr ""
+
+#: view/search.php:12 view/search.php:68
+msgid "Import product by URL or ID"
+msgstr ""
+
+#: view/search.php:19
+msgid "Enter Keywords"
+msgstr ""
+
+#: view/search.php:29
+msgid "Search"
+msgstr ""
+
+#: view/search.php:39
+msgid "Price from"
+msgstr ""
+
+#: view/search.php:40
+msgid "Price to"
+msgstr ""
+
+#: view/search.php:43
+msgid "Seller's Feedback score"
+msgstr ""
+
+#: view/search.php:44
+msgid "Score from 0"
+msgstr ""
+
+#: view/search.php:45
+msgid "Score to 400 000+"
+msgstr ""
+
+#: view/search.php:48
+msgid "Sold in 30 days"
+msgstr ""
+
+#: view/search.php:49
+msgid "Orders count from"
+msgstr ""
+
+#: view/search.php:50
+msgid "Orders count to"
+msgstr ""
+
+#: view/search.php:54
+msgid "Show shipping price to"
+msgstr ""
+
+#: view/search.php:61
+msgid "We will display the cheapest shipping option on the results page"
+msgstr ""
+
+#: view/search.php:72
+msgid "Product URL"
+msgstr ""
+
+#: view/search.php:74
+msgid "or"
+msgstr ""
+
+#: view/search.php:75
+msgid "Product ID"
+msgstr ""
+
+#: view/search.php:82
+msgid "Import"
+msgstr ""
+
+#: view/search.php:94
+msgid "Sort by:"
+msgstr ""
+
+#: view/search.php:96
+msgctxt "sort by"
+msgid "Best Match"
+msgstr ""
+
+#: view/search.php:97
+msgctxt "sort by"
+msgid "Lowest price"
+msgstr ""
+
+#: view/search.php:98
+msgctxt "sort by"
+msgid "Highest price"
+msgstr ""
+
+#: view/search.php:99
+msgctxt "sort by"
+msgid "Seller's feedback score"
+msgstr ""
+
+#: view/search.php:100
+msgctxt "sort by"
+msgid "Lowest commission rate"
+msgstr ""
+
+#: view/search.php:101
+msgctxt "sort by"
+msgid "Highest commission rate"
+msgstr ""
+
+#: view/search.php:102
+msgctxt "sort by"
+msgid "Orders count"
+msgstr ""
+
+#: view/search.php:103
+msgctxt "sort by"
+msgid "Lowest valid time"
+msgstr ""
+
+#: view/search.php:104
+msgctxt "sort by"
+msgid "Highest valid time"
+msgstr ""
+
+#: view/search.php:139
+msgid "Choose shipping country"
+msgstr ""
+
+#: view/search.php:157
+msgid "Remove from import list"
+msgstr ""
+
+#: view/search.php:157
+msgid "Add to import list"
+msgstr ""
+
+#: includes/classes/A2W_AbstractAdminPage.php:44
+msgid ""
+"Ali2Woo notice! Please install the <a href=\"https://woocommerce.com/\" "
+"target=\"_blank\">WooCommerce</a> plugin first."
+msgstr ""
+
+#: view/includes/place_orders_bulk_popup.php:4
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:31
+#, php-format
+msgctxt "Status"
+msgid "Placing orders %d/%d..."
+msgstr ""
+
+#: view/includes/place_orders_bulk_popup.php:7
+msgid "Switch"
+msgstr ""
+
+#: view/includes/place_orders_bulk_popup.php:8
+msgid "Continue"
+msgstr ""
+
+#: view/includes/place_orders_bulk_popup.php:9
+msgid "Skip"
+msgstr ""
+
+#: view/includes/place_orders_bulk_popup.php:10
+msgid "\"Refresh\" Page"
+msgstr ""
+
+#: view/includes/place_orders_bulk_popup.php:11
+msgid "Orders List"
+msgstr ""
+
+#: view/includes/place_orders_bulk_popup.php:12
+msgid "Close"
+msgstr ""
+
+#: view/includes/shipping_modal.php:4
+msgid "Available shipping methods"
+msgstr ""
+
+#: view/includes/shipping_modal.php:8
+msgid "Calculate your shipping price:"
+msgstr ""
+
+#: view/includes/shipping_modal.php:18
+msgid ""
+"These are the shipping methods you will be able to select when processing "
+"orders:"
+msgstr ""
+
+#: view/includes/shipping_modal.php:23
+msgid "Shipping Method"
+msgstr ""
+
+#: view/includes/shipping_modal.php:24
+msgid "Estimated Delivery Time"
+msgstr ""
+
+#: view/includes/shipping_modal.php:25
+msgid "Shipping Cost"
+msgstr ""
+
+#: view/includes/shipping_modal.php:41
+msgid "Ok"
+msgstr ""
+
+#: view/includes/split_modal.php:33
+msgid "Cancel"
+msgstr ""
+
+#: view/includes/split_modal.php:35
+msgid "Split to <span class=\"btn-split-count\">0</span> Products"
+msgstr ""
+
+#: view/settings/account.php:6
+msgctxt "Setting title"
+msgid "Account settings"
+msgstr ""
+
+#: view/settings/account.php:12
+msgid "Use custom account"
+msgstr ""
+
+#: view/settings/account.php:14
+msgctxt "setting description"
+msgid "You can use your own Aliexpress API Keys if needed"
+msgstr ""
+
+#: view/settings/account.php:20
+msgid "You are using default account"
+msgstr ""
+
+#: view/settings/account.php:29
+msgid "Account type"
+msgstr ""
+
+#: view/settings/account.php:31
+msgctxt "setting description"
+msgid "Account type"
+msgstr ""
+
+#: view/settings/account.php:46
+msgid "APP Key"
+msgstr ""
+
+#: view/settings/account.php:48
+msgctxt "setting description"
+msgid ""
+"When you create the App, the AliExpress open platform will generate an appKey"
+msgstr ""
+
+#: view/settings/account.php:59
+msgid "TrackingId"
+msgstr ""
+
+#: view/settings/account.php:61
+msgctxt "setting description"
+msgid "The tracking ID of your account in the Portals platform"
+msgstr ""
+
+#: view/settings/account.php:73
+msgid "Cashback URL"
+msgstr ""
+
+#: view/settings/account.php:75
+msgctxt "setting description"
+msgid "Cashback URL"
+msgstr ""
+
+#: view/settings/account.php:98 view/settings/common.php:549
+#: view/settings/phrase_filter.php:101 view/settings/price_formula.php:344
+#: view/settings/reviews.php:173 view/settings/shipping.php:138
+msgid "Save settings"
+msgstr ""
+
+#: view/settings/chrome.php:8
+msgid "Back to list"
+msgstr ""
+
+#: view/settings/chrome.php:13
+msgid "Name"
+msgstr ""
+
+#: view/settings/chrome.php:15
+msgctxt "setting description"
+msgid "Friendly name for identifying this key."
+msgstr ""
+
+#: view/settings/chrome.php:25
+msgid "URL"
+msgstr ""
+
+#: view/settings/chrome.php:27
+msgctxt "setting description"
+msgid "Use this URL in your a2w chrome extension settings."
+msgstr ""
+
+#: view/settings/chrome.php:31 view/settings/chrome.php:63
+msgid "Copy to clipboard"
+msgstr ""
+
+#: view/settings/chrome.php:40
+msgid "Save changes"
+msgstr ""
+
+#: view/settings/chrome.php:41 view/settings/chrome.php:69
+msgid "Revoke key"
+msgstr ""
+
+#: view/settings/chrome.php:50
+msgctxt "Setting title"
+msgid "API keys"
+msgstr ""
+
+#: view/settings/chrome.php:51
+msgid "Add key"
+msgstr ""
+
+#: view/settings/chrome.php:68
+msgid "View/Edit"
+msgstr ""
+
+#: view/settings/common.php:6
+msgctxt "Setting title"
+msgid "Purchase Settings"
+msgstr ""
+
+#: view/settings/common.php:20
+msgctxt "Setting title"
+msgid "Item Purchase Code"
+msgstr ""
+
+#: view/settings/common.php:37
+msgctxt "Setting title"
+msgid "Import Settings"
+msgstr ""
+
+#: view/settings/common.php:44
+msgctxt "Setting title"
+msgid "Language"
+msgstr ""
+
+#: view/settings/common.php:46
+msgctxt "setting description"
+msgid "It's applied to Product title, description, attributes and reviews"
+msgstr ""
+
+#: view/settings/common.php:77
+msgctxt "Setting title"
+msgid "Currency"
+msgstr ""
+
+#: view/settings/common.php:79
+msgctxt "setting description"
+msgid "Default currency coefficients"
+msgstr ""
+
+#: view/settings/common.php:101
+msgctxt "setting description"
+msgid "Custom currency"
+msgstr ""
+
+#: view/settings/common.php:114
+msgctxt "Setting title"
+msgid "Default product type"
+msgstr ""
+
+#: view/settings/common.php:116 view/settings/common.php:134
+msgctxt "setting description"
+msgid "Default product type"
+msgstr ""
+
+#: view/settings/common.php:132
+msgctxt "Setting title"
+msgid "Default product status"
+msgstr ""
+
+#: view/settings/common.php:150 view/settings/common.php:152
+msgid "Not import specifications"
+msgstr ""
+
+#: view/settings/common.php:164 view/settings/common.php:166
+msgid "Not import description"
+msgstr ""
+
+#: view/settings/common.php:178 view/settings/common.php:180
+msgid "Don't import images from the description"
+msgstr ""
+
+#: view/settings/common.php:192
+msgctxt "Setting title"
+msgid "Use external image urls"
+msgstr ""
+
+#: view/settings/common.php:194
+msgctxt "setting description"
+msgid "Use external image urls"
+msgstr ""
+
+#: view/settings/common.php:201
+msgid "Load images"
+msgstr ""
+
+#: view/settings/common.php:210
+msgctxt "Setting title"
+msgid "Use image proxy"
+msgstr ""
+
+#: view/settings/common.php:212
+msgctxt "setting description"
+msgid "If you have problems with loading images, try to use this option."
+msgstr ""
+
+#: view/settings/common.php:224
+msgctxt "Setting title"
+msgid "Use random stock value"
+msgstr ""
+
+#: view/settings/common.php:226
+msgctxt "setting description"
+msgid "Use random stock value"
+msgstr ""
+
+#: view/settings/common.php:242
+msgctxt "Setting title"
+msgid "Extended variation attributes"
+msgstr ""
+
+#: view/settings/common.php:244
+msgctxt "setting description"
+msgid "Import variation attributes as product attributes"
+msgstr ""
+
+#: view/settings/common.php:258
+msgctxt "Setting title"
+msgid "Order Fulfillment settings"
+msgstr ""
+
+#: view/settings/common.php:264
+msgctxt "Setting title"
+msgid "Tracking Code Order Status"
+msgstr ""
+
+#: view/settings/common.php:266
+msgctxt "setting description"
+msgid "Change the order status when the tracking code is received"
+msgstr ""
+
+#: view/settings/common.php:272 view/settings/common.php:292
+#: view/settings/shipping.php:26
+msgctxt "Setting option"
+msgid "Do nothing"
+msgstr ""
+
+#: view/settings/common.php:284
+msgctxt "Setting title"
+msgid "Placed Order Status"
+msgstr ""
+
+#: view/settings/common.php:286
+msgctxt "setting description"
+msgid ""
+"Change the order status when the order has been placed with the Chrome "
+"extension"
+msgstr ""
+
+#: view/settings/common.php:307
+msgctxt "Setting title"
+msgid "Schedule settings"
+msgstr ""
+
+#: view/settings/common.php:314
+msgctxt "Setting title"
+msgid "Aliexpress Sync"
+msgstr ""
+
+#: view/settings/common.php:316
+msgctxt "setting description"
+msgid "Enable auto-update features"
+msgstr ""
+
+#: view/settings/common.php:328
+msgid "When product is no longer available"
+msgstr ""
+
+#: view/settings/common.php:330
+msgid ""
+"Choose an action when one of your products is no longer available from "
+"Aliexpress. Applies to all existing products."
+msgstr ""
+
+#: view/settings/common.php:336 view/settings/common.php:355
+#: view/settings/common.php:374 view/settings/common.php:392
+#: view/settings/common.php:410
+msgid "Do Nothing"
+msgstr ""
+
+#: view/settings/common.php:337
+msgid "Move to trash"
+msgstr ""
+
+#: view/settings/common.php:338 view/settings/common.php:357
+msgid "Set Quantity To Zero"
+msgstr ""
+
+#: view/settings/common.php:347
+msgid "When variant is no longer available"
+msgstr ""
+
+#: view/settings/common.php:349
+msgid ""
+"Choose an action when one of the product’s variants is no longer available "
+"from Aliexpress."
+msgstr ""
+
+#: view/settings/common.php:356
+msgid "Remove variant"
+msgstr ""
+
+#: view/settings/common.php:366
+msgid "When a new variant has appeared"
+msgstr ""
+
+#: view/settings/common.php:368
+msgid ""
+"Choose an action when new of the product’s variants is an appearance on "
+"Aliexpress."
+msgstr ""
+
+#: view/settings/common.php:375
+msgid "Add variant"
+msgstr ""
+
+#: view/settings/common.php:384
+msgid "When the price changes"
+msgstr ""
+
+#: view/settings/common.php:386
+msgid "Choose an action when the price of your product changes."
+msgstr ""
+
+#: view/settings/common.php:393
+msgid "Update price"
+msgstr ""
+
+#: view/settings/common.php:402
+msgid "When inventory changes"
+msgstr ""
+
+#: view/settings/common.php:404
+msgid ""
+"Choose an action when the inventory level of a particular product changes."
+msgstr ""
+
+#: view/settings/common.php:411
+msgid "Update automatically"
+msgstr ""
+
+#: view/settings/common.php:423
+msgctxt "Setting title"
+msgid "Chrome Extension settings"
+msgstr ""
+
+#: view/settings/common.php:429
+msgctxt "Setting title"
+msgid "Default shipping method"
+msgstr ""
+
+#: view/settings/common.php:431
+msgctxt "setting description"
+msgid ""
+"If possible, we will auto-select this shipping method during the checkout on "
+"AliExpress."
+msgstr ""
+
+#: view/settings/common.php:457
+msgctxt "Setting title"
+msgid "Override phone number"
+msgstr ""
+
+#: view/settings/common.php:459
+msgctxt "setting description"
+msgid "This will be used instead of a customer phone number."
+msgstr ""
+
+#: view/settings/common.php:472
+msgctxt "Setting title"
+msgid "Custom note"
+msgstr ""
+
+#: view/settings/common.php:474
+msgctxt "setting description"
+msgid "A note to the supplier on the Aliexpress checkout page."
+msgstr ""
+
+#: view/settings/common.php:487
+msgctxt "Setting title"
+msgid "Transliteration"
+msgstr ""
+
+#: view/settings/common.php:489
+msgctxt "setting description"
+msgid "Enable the auto-transliteration for AliExpress order details."
+msgstr ""
+
+#: view/settings/common.php:501
+msgctxt "Setting title"
+msgid "Middle name field"
+msgstr ""
+
+#: view/settings/common.php:503
+msgctxt "setting description"
+msgid ""
+"Adds the Middle name field to WooCommerce checkout page and then uses it "
+"during an order-fulfillment process on AliExpress."
+msgstr ""
+
+#: view/settings/common.php:516
+msgctxt "Setting title"
+msgid "Automatic payments"
+msgstr ""
+
+#: view/settings/common.php:518
+msgctxt "setting description"
+msgid ""
+"Allow the Chrome extension to pay automatically for each order during an "
+"order fulfillment process. Also please make sure that you`ve selected your "
+"credit card as the payment method on AlIExpress."
+msgstr ""
+
+#: view/settings/common.php:531
+msgctxt "Setting title"
+msgid "Place order to Awaiting payment list"
+msgstr ""
+
+#: view/settings/common.php:533
+msgctxt "setting description"
+msgid ""
+"Allow the Chrome extension to place each order to the Awaiting payment list "
+"on AlIExpress. It gives ability to pay for all orders at a time."
+msgstr ""
+
+#: view/settings/phrase_filter.php:4
+msgctxt "Setting title"
+msgid "Phrase Filtering (case sensitive)"
+msgstr ""
+
+#: view/settings/phrase_filter.php:6
+msgid "You have unsaved changes"
+msgstr ""
+
+#: view/settings/phrase_filter.php:7 view/settings/phrase_filter.php:109
+msgid "Apply Filter to your Shop"
+msgstr ""
+
+#: view/settings/phrase_filter.php:13
+msgid "Applying filter progress"
+msgstr ""
+
+#: view/settings/phrase_filter.php:31
+msgid "Phrase"
+msgstr ""
+
+#: view/settings/phrase_filter.php:34
+msgid "Replacement"
+msgstr ""
+
+#: view/settings/phrase_filter.php:41 view/settings/phrase_filter.php:61
+msgid "some phrase or word"
+msgstr ""
+
+#: view/settings/phrase_filter.php:46 view/settings/phrase_filter.php:66
+msgid "sreplacement or empty"
+msgstr ""
+
+#: view/settings/phrase_filter.php:113
+msgid "Select the update type"
+msgstr ""
+
+#: view/settings/phrase_filter.php:116
+msgctxt "Apply Phrases"
+msgid "Products"
+msgstr ""
+
+#: view/settings/phrase_filter.php:117
+msgctxt "Aplly Phrases"
+msgid "Reviews"
+msgstr ""
+
+#: view/settings/phrase_filter.php:121
+msgctxt "Apply Phrases"
+msgid "All"
+msgstr ""
+
+#: view/settings/phrase_filter.php:125
+msgid "Select the update scope"
+msgstr ""
+
+#: view/settings/phrase_filter.php:128
+msgctxt "Apply Phrases"
+msgid "Shop"
+msgstr ""
+
+#: view/settings/phrase_filter.php:129
+msgctxt "Apply Phrases"
+msgid "Import List"
+msgstr ""
+
+#: view/settings/phrase_filter.php:130
+msgctxt "Apply Phrases"
+msgid "Shop and Import List"
+msgstr ""
+
+#: view/settings/reviews.php:8
+msgctxt "Setting title"
+msgid "Reviews settings"
+msgstr ""
+
+#: view/settings/reviews.php:16
+msgctxt "Setting title"
+msgid "Aliexpress Review Load"
+msgstr ""
+
+#: view/settings/reviews.php:18
+msgctxt "setting description"
+msgid "Enable Review Load feature"
+msgstr ""
+
+#: view/settings/reviews.php:31
+msgctxt "Setting title"
+msgid "Aliexpress Review Sync"
+msgstr ""
+
+#: view/settings/reviews.php:33
+msgctxt "setting description"
+msgid "Enable Review Auto-Update feature"
+msgstr ""
+
+#: view/settings/reviews.php:46
+msgctxt "Setting title"
+msgid "Translated Reviews"
+msgstr ""
+
+#: view/settings/reviews.php:48
+msgctxt "setting description"
+msgid "Try to import translated reviews`s text from Aliexpress"
+msgstr ""
+
+#: view/settings/reviews.php:61
+msgctxt "Setting title"
+msgid "Import Avatars"
+msgstr ""
+
+#: view/settings/reviews.php:63
+msgctxt "setting description"
+msgid "Try to import review`s avatar from Aliexpress"
+msgstr ""
+
+#: view/settings/reviews.php:77
+msgctxt "Setting title"
+msgid "Reviews per product"
+msgstr ""
+
+#: view/settings/reviews.php:79
+msgctxt "setting description"
+msgid ""
+"The max. number of reviews (per product) that can be imported during "
+"Aliexpress Review Sync"
+msgstr ""
+
+#: view/settings/reviews.php:91
+msgctxt "Setting title"
+msgid "Reviews Raiting"
+msgstr ""
+
+#: view/settings/reviews.php:93
+msgctxt "setting description"
+msgid "Filter imported reviews by the rating"
+msgstr ""
+
+#: view/settings/reviews.php:118
+msgctxt "Setting title"
+msgid "Default Avatar"
+msgstr ""
+
+#: view/settings/reviews.php:120
+msgctxt "setting description"
+msgid "Defalut review`s Avatar photo used for displaying near review`s text"
+msgstr ""
+
+#: view/settings/reviews.php:140
+msgctxt "Setting title"
+msgid "Load Review Attributes"
+msgstr ""
+
+#: view/settings/reviews.php:142
+msgctxt "setting description"
+msgid "Import Review Attributes from Aliexpress"
+msgstr ""
+
+#: view/settings/reviews.php:155
+msgctxt "Setting title"
+msgid "Load Review photos"
+msgstr ""
+
+#: view/settings/reviews.php:157
+msgctxt "setting description"
+msgid "Load Review Photo list"
+msgstr ""
+
+#: view/settings/reviews.php:172
+msgid "Remove all reviews"
+msgstr ""
+
+#: view/settings/settings_head.php:1
+msgctxt "Setting title"
+msgid "Aliexpress Dropship Settings"
+msgstr ""
+
+#: view/settings/shipping.php:8
+msgctxt "Setting title"
+msgid "Shipping settings"
+msgstr ""
+
+#: view/settings/shipping.php:10
+msgctxt "Setting title"
+msgid "Reset product shipping meta"
+msgstr ""
+
+#: view/settings/shipping.php:18
+msgctxt "Setting title"
+msgid "Default shipping class"
+msgstr ""
+
+#: view/settings/shipping.php:20
+msgctxt "setting description"
+msgid "Assigned a shipping class to the product when importing"
+msgstr ""
+
+#: view/settings/shipping.php:38
+msgctxt "Setting title"
+msgid "Use Aliexpress Shipping"
+msgstr ""
+
+#: view/settings/shipping.php:40
+msgctxt "setting description"
+msgid ""
+"Show the shipping drop-down selection in Frontend (Cart, Checkout and Order "
+"page)"
+msgstr ""
+
+#: view/settings/shipping.php:51
+msgctxt "Setting title"
+msgid "Default Shipping Country"
+msgstr ""
+
+#: view/settings/shipping.php:53
+msgctxt "setting description"
+msgid ""
+"Set the Default option for Country drop-down selection in Frontend (Cart and "
+"Checkout pages)"
+msgstr ""
+
+#: view/settings/shipping.php:76
+msgctxt "Setting title"
+msgid "Global shipping rules"
+msgstr ""
+
+#: view/settings/shipping.php:76
+msgctxt "Setting tip"
+msgid ""
+"Please note that you can disable Global rules for specific shipping methods "
+"if needed. Just go to \"Shipping List\" page, then choose \"specific "
+"method\" and set  \"Enable price rule\" to \"no\"."
+msgstr ""
+
+#: view/settings/system_info.php:8
+msgid "Server address"
+msgstr ""
+
+#: view/settings/system_info.php:20
+msgid "Php version"
+msgstr ""
+
+#: view/settings/system_info.php:22
+msgctxt "setting description"
+msgid "Php version"
+msgstr ""
+
+#: view/settings/system_info.php:39
+msgid "Php config"
+msgstr ""
+
+#: view/settings/system_info.php:49
+msgid "There may be problems with the image editor"
+msgstr ""
+
+#: view/settings/system_info.php:57
+msgid "Server ping"
+msgstr ""
+
+#: view/settings/system_info.php:59
+msgctxt "setting description"
+msgid "Server ping"
+msgstr ""
+
+#: view/settings/system_info.php:76
+msgid "DISABLE_WP_CRON"
+msgstr ""
+
+#: view/settings/system_info.php:82
+msgctxt "setting description"
+msgid ""
+"We recommend to disable WP Cron and setup the cron on your server/hosting "
+"instead."
+msgstr ""
+
+#: view/shipping/shipping_country_dropdown.php:6
+msgid "Ship my order(s) to: "
+msgstr ""
+
+#: view/shipping/shipping_country_dropdown.php:7
+#: includes/classes/shipping/A2W_ShippingFrontendPageController.php:82
+msgid "Select a Country"
+msgstr ""
+
+#: view/shipping/shipping_method_dropdown.php:10
+msgid "Shipping method: "
+msgstr ""
+
+#: view/shipping/shipping_method_dropdown.php:11
+msgid "Select a Shipping method"
+msgstr ""
+
+#: includes/classes/controller/A2W_AddonsController.php:23
+msgid "Add-ons"
+msgstr ""
+
+#: includes/classes/controller/A2W_DebugPageController.php:16
+msgid "Debug"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:54
+msgid "The tracking numbers have been added to the order."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:80
+msgid "The order`s tracking numbers have been deleted."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:104
+msgid "The order external ID(s) have been deleted."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:131
+msgid "The external order IDs have been added to the order."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:151
+msgid "A2W Data"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:159
+msgid "AliExpress order ID(s)"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:166
+msgid "Delete order ID(s)"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:168
+msgid "Add order ID(s) manually"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:171
+msgid "AliExpress tracking numbers"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:177
+msgid "Delete tracking numbers"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:181
+msgid "Add tracking numbers manually"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:189
+msgid "AliExpress Order ID"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderDataTabController.php:203
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:229
+msgid "Tracking number"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:32
+#: includes/classes/controller/A2W_WooCommerceProductListController.php:74
+msgctxt "Status"
+msgid "Please wait, data loads.."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:34
+#: includes/classes/controller/A2W_WooCommerceProductListController.php:76
+#, php-format
+msgctxt "Status"
+msgid "Process update %d of %d. Errors: %d."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:35
+#: includes/classes/controller/A2W_WooCommerceProductListController.php:77
+#, php-format
+msgctxt "Status"
+msgid "Complete! Result updated: %d; errors: %d."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:36
+msgctxt "Status"
+msgid "Please install the Ali2Woo chrome extension to use this feature."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:37
+#, php-format
+msgctxt "Status"
+msgid ""
+"Please connect the Chrome extension to your store and then continue. Need "
+"help? Check out <a href=\"%s\">the instruction</a>"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:38
+msgctxt "Status"
+msgid ""
+"We found an old order fulfillment process and removed it. Press the "
+"\"Continue\" button."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:39
+msgctxt "Status"
+msgid "Please switch to AliExpress tab and login into your AliExpress account."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:40
+msgctxt "Status"
+msgid "Detected old AliExpress interface. Please contact Ali2Woo support."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:41
+msgctxt "Status"
+msgid "Your customer address is entered. Wait..."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:42
+msgctxt "Status"
+msgid "A product is added to the cart. Wait..."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:43
+msgctxt "Status"
+msgid "All products are added to the cart. Wait..."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:44
+msgctxt "Status"
+msgid "The previous cart data is cleared. Wait..."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:45
+#, php-format
+msgctxt "Status"
+msgid ""
+"Get no responces from the chrome extension for 30s. Check out <a href=\"%s\">"
+"the instruction</a>"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:46
+msgctxt "Status"
+msgid "Filling order notes..."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:47
+#, php-format
+msgctxt "Status"
+msgid ""
+"Can`t add this product to the cart. Switch to AliExpress and choose another "
+"one or add a similar product from another supplier manually. Then continue. "
+"Check out <a href=\"%s\">the instruction</a>"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:48
+msgctxt "Status"
+msgid "Please switch to AliExpress tab, type the address or skip this order."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:49
+msgctxt "Status"
+msgid ""
+"Please switch to AliExpress and input the Captcha code manually or wait for "
+"your Captcha solver to do the job..."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:50
+msgctxt "Status"
+msgid "The order is placed. Wait..."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:51
+msgctxt "Status"
+msgid ""
+"Internal AliExpress error. Please continue to try again or skip this order."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:52
+msgctxt "Status"
+msgid ""
+"All orders are placed! Click \"Orders List\" to be directed to the orders "
+"list on the AliExpress website."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:53
+msgctxt "Status"
+msgid ""
+"We can`t process your orders. Check out the \"Status Page\" for more details."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:54
+msgctxt "Status"
+msgid ""
+"Can`t get the external order ID, please copy it manually to your WC order. "
+"Then continue."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:55
+msgctxt "Status"
+msgid ""
+"The payment is failed, please finish this order manually. Then continue."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:56
+msgctxt "Status"
+msgid "Please switch to AliExpress and pay for the order."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:57
+msgctxt "Status"
+msgid "Please switch to AliExpress and choose payment method."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:59
+msgctxt "Status"
+msgid "Can`t find the WC order with a given ID."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:60
+#, php-format
+msgctxt "Status"
+msgid ""
+"This order has a variable product but doesn`t contain the variable data for "
+"some reason. Check out <a href=\"%s\">the instruction</a>"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:61
+#, php-format
+msgctxt "Status"
+msgid ""
+"This order doesn`t contain the `product_url` field for some reason. Check "
+"out <a href=\"%s\">the instruction</a>"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:62
+#, php-format
+msgctxt "Status"
+msgid ""
+"No AliExpress products in the current order. Check out <a href=\"%s\">the "
+"instruction</a>"
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:64
+msgctxt "Status"
+msgid "Unknown error occured. Please contact support."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:65
+msgctxt "Status"
+msgid "Server error. Continue to try again."
+msgstr ""
+
+#: includes/classes/controller/A2W_OrderFulfillmentController.php:74
+msgid "Place on AliExpress"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:65
+msgid "External Aliexpress Product Id"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:71
+msgid "Orders count"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:73
+msgid "Aliexpress orders count"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:81
+msgid "Disable synchronization?"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:82
+msgid "Disable global synchronization for this product"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:90
+msgid "Disable price change?"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:91
+msgid "Disable variations price change"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:96
+msgid "Disable quantity change?"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:97
+msgid "Disable variations quantity change"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:102
+msgid "Disable add new variants?"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:103
+msgid "Disable add new variants if they appear."
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:113
+msgid "Product url"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:115
+msgid "Affiliate product url"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:121
+#: includes/classes/controller/A2W_ProductDataTabController.php:123
+msgid "Original product url"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:145
+#: includes/classes/controller/A2W_ProductDataTabController.php:152
+msgid "No deleted attributes of variations"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:167
+#: includes/classes/controller/A2W_ProductDataTabController.php:170
+msgid "No deleted variations"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:233
+#, php-format
+msgid "Aliexpress Regular price (%s)"
+msgstr ""
+
+#: includes/classes/controller/A2W_ProductDataTabController.php:240
+#, php-format
+msgid "Aliexpress Sale price (%s)"
+msgstr ""
+
+#: includes/classes/controller/A2W_SearchPageController.php:18
+msgid "Search Products"
+msgstr ""
+
+#: includes/classes/controller/A2W_SearchPageController.php:62
+msgid "Please enter some search keywords or select item from category list!"
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:19
+msgid "Settings"
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:48
+#, php-format
+msgctxt "Status"
+msgid "Process loading %d of %d. Errors: %d."
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:49
+#, php-format
+msgctxt "Status"
+msgid "Load %d images"
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:50
+msgctxt "Status"
+msgid "All images loaded"
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:67
+msgid "Common settings"
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:68
+msgid "Account settings"
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:69
+msgid "Pricing Rules"
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:70
+msgid "Reviews settings"
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:71
+msgid "Shipping settings"
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:72
+msgid "Phrase Filtering"
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:73
+msgid "API Keys"
+msgstr ""
+
+#: includes/classes/controller/A2W_SettingPageController.php:74
+msgid "System Info"
+msgstr ""
+
+#: includes/classes/controller/A2W_SynchProductController.php:52
+msgid "Every Minute"
+msgstr ""
+
+#: includes/classes/controller/A2W_SynchProductController.php:53
+msgid "Every 5 Minutes"
+msgstr ""
+
+#: includes/classes/controller/A2W_SynchProductController.php:54
+msgid "Every 15 Minutes"
+msgstr ""
+
+#: includes/classes/controller/A2W_ThirdNameFieldController.php:47
+msgid "Middle name"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:68
+msgid "Tracking Sync All"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:148
+msgctxt "hint"
+msgid "Product page"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:151
+msgctxt "hint"
+msgid "Seller"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:153
+msgctxt "hint"
+msgid "The product has been deleted"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:184
+msgctxt "Dialog title"
+msgid "AliExpress Info"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:185
+msgctxt "Status"
+msgid "Please wait, data loads..."
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:186
+msgctxt "Status"
+msgid "Please wait..."
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:187
+msgctxt "Status"
+msgid "Sync process"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:188
+msgctxt "Button text"
+msgid "Sync done!"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:189
+msgctxt "Button text"
+msgid "Error!"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:190
+msgctxt "Error text"
+msgid "Error! Please install the latest Chrome extension."
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:191
+msgctxt "Error text"
+msgid ""
+"Can`t do Tracking Sync. Unknown error in the Chrome extension. Please "
+"contact with the support."
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:192
+msgctxt "Button text"
+msgid "Try again?"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:193
+msgctxt "Error text"
+msgid "Didn`t find the AliExpress order №"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:194
+msgctxt "Error text"
+msgid "Can`t do Tracking Sync. Please log-in to your AliExpress account first."
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:195
+msgctxt "Status"
+msgid "No tracking codes for given order on AliExpress."
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:196
+msgctxt "Button text"
+msgid "Tracking Sync All"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:197
+msgctxt "Error text"
+msgid "The error with 403 code occured for the AliExpress order №"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:198
+msgctxt "Status"
+msgid "The Tracking Sunc has been done!"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:216
+msgid "Not available yet"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:240
+msgid "Order fulfillment"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:246
+msgid "AliExpress Info"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceOrderListController.php:259
+msgid "Tracking Sync"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceProductListController.php:46
+msgid "AliExpress Sync"
+msgstr ""
+
+#: includes/classes/controller/A2W_WooCommerceProductListController.php:75
+#, php-format
+msgctxt "Status"
+msgid "Process update %d of %d."
+msgstr ""
+
+#: includes/classes/model/A2W_ProductImport.php:192
+msgid "Sort by External Id"
+msgstr ""
+
+#: includes/classes/model/A2W_ProductImport.php:192
+msgid "Sort by Product title"
+msgstr ""
+
+#: includes/classes/model/A2W_ProductImport.php:192
+msgid "Sort by Date add (old first)"
+msgstr ""
+
+#: includes/classes/model/A2W_ProductImport.php:192
+msgid "Sort by Date add (new first)"
+msgstr ""
+
+#: includes/classes/model/A2W_Woocommerce.php:1173
+msgctxt "Error text"
+msgid "Didn`t find the Woocommerce order №"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingFrontendPageController.php:122
+#: includes/classes/shipping/A2W_ShippingFrontendPageController.php:183
+#: includes/classes/shipping/A2W_ShippingLoader.php:96
+msgid "days"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingFrontendPageController.php:122
+#: includes/classes/shipping/A2W_ShippingFrontendPageController.php:183
+msgid "free shipping"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingFrontendPageController.php:226
+msgid "Select a Shipping method..."
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingFrontendPageController.php:227
+msgid ""
+"Shipping country should be the same for all items in your order. You can "
+"reset it, if clear your shopping cart."
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingLoader.php:93
+msgid "free"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingMethod.php:29
+#: includes/classes/shipping/A2W_ShippingMethod.php:38
+#: includes/classes/shipping/A2W_ShippingMethod.php:140
+msgid "Ali2Woo Shipping"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingMethod.php:31
+msgid "Custom Shipping Method for Ali2Woo"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingMethod.php:137
+msgid "Shipping Label"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingMethod.php:139
+msgid "Shipping Label to be display on site"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingMethod.php:144
+msgid "Disable Label in Cart"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingMethod.php:146
+msgid "Remove shipping method label in Shopping Cart "
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingPageController.php:14
+#: includes/classes/shipping/A2W_ShippingPostType.php:21
+#: includes/classes/shipping/A2W_ShippingPostType.php:22
+msgid "Shipping List"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingPageController.php:60
+msgctxt "Shipping List page"
+msgid "Shipping name"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingPageController.php:61
+msgctxt "Shipping List page"
+msgid "Initial Name"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingPageController.php:62
+msgctxt "Shipping List page"
+msgid "Service name"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingPageController.php:63
+msgctxt "Shipping List page"
+msgid "Enable price rule"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingPageController.php:64
+msgctxt "Shipping List page"
+msgid "Status"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingPageController.php:105
+msgctxt "Shipping method Edit page"
+msgid "Initial Name"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingPageController.php:106
+msgctxt "Shipping method Edit page"
+msgid "Service Name"
+msgstr ""
+
+#: includes/classes/shipping/A2W_ShippingPageController.php:107
+msgctxt "Shipping method Edit page"
+msgid "Enable price rule"
+msgstr ""
+
+#: includes/libs/a2w_json_api/singletons/api.php:112
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/libs/a2w_json_api/singletons/api.php:206
+msgid "Deactivate this controller"
+msgstr ""
+
+#: includes/libs/a2w_json_api/singletons/api.php:208
+msgid "Activate this controller"
+msgstr ""
+
+#: includes/libs/a2w_json_api/singletons/api.php:250
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Aliexpress Dropship for Woocommerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Aliexpress Dropship for Woocommerce is a WordPress plugin created for "
+"AliExpress Drop Shipping and Affiliate marketing"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://codecanyon.net/user/ma-group/portfolio"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MA-Group"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://codecanyon.net/user/ma-group"
+msgstr ""
